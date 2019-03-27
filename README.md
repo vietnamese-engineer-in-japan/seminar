@@ -17,5 +17,10 @@
 - Most of us graduated from Hanoi University of Science and Technology, leading multidisciplinary technical university and research unit of Vietnam with a major in computer science.
 - Members: 
   +  @chariot9  -- Trung Vu
-  +  TBD
+  +  @haoict -- Hao Nguyen
+  +  @manhnhhdvn -- Manh Nguyen
+  +  @pizzanfruit -- Long
+  +  @QuyVu -- Quy Vu
+  +  @sontdhust -- Son Tran
+  +  @yuyuvn -- Duc Phan
   
