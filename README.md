@@ -14,4 +14,6 @@
 - We are a group of engineers from Vietnam. 
 - Most of us graduated from Hanoi University of Science and Technology, leading multidisciplinary technical university and research unit of Vietnam with a major in computer science.
 - Members: 
-  +  Tobe updated
+  +  @chariot9  -- Trung Vu
+  +  TBD
+  
