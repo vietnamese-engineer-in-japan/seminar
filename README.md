@@ -10,7 +10,7 @@
 - Interested in software architecture and never stop improving productivity.
 - Be a product creator, build services to connect people with true stories, passions and experiences.
 
-### Our purpos
+### Our purpose
 - `Work it hader, make it better, do it faster and make us stronger`
 
 ### Contact us
