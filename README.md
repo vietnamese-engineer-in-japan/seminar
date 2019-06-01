@@ -10,7 +10,8 @@
 - Interested in software architecture and never stop improving productivity.
 - Be a product creator, build services to connect people with true stories, passions and experiences.
 
-- [The first seminar 16:00 13 Apr 2019](https://github.com/vietnamese-engineer-in-japan/seminar/issues/1)
+### Our purpos
+- `Work it hader, make it better, do it faster and make us stronger`
 
 ### Contact us
 - We are a group of engineers from Vietnam. 
